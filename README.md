@@ -1,6 +1,4 @@
 # hello-world
 Test 
+readme-edits branch
 
-Hello Beyond
-
-Ceci est un test pour GitHub
